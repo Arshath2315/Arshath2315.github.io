@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\arsha\\OneDrive\\Desktop\\html-freebie-portfolio-perfect-master\\index.html"
+            "file": "C:\\Users\\arsha\\OneDrive\\Documents\\GitHub\\Arshath2315.github.io\\index.html"
         }
     ]
 }
