@@ -222,6 +222,11 @@ html, body {
     position: relative;
     height: 100%;
 }
+@media only screen and (max-width: 414px) {
+    .hero .col-md-6.text-right {
+        display: none; /* Hides the image completely */
+    }
+}
 
 .hero .col-md-6:first-child {
     position: absolute;
